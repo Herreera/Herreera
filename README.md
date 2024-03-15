@@ -1,7 +1,7 @@
 # Hola, soy Samuel Herrera
 
 ## Acerca de mí
-Soy un desarrollador Full-Stack apasionado por la creación de soluciones innovadoras. Mi experiencia abarca desde el desarrollo front-end hasta el back-end, y tengo un sólido conocimiento en ciberseguridad. Constantemente estoy explorando nuevas tecnologías para mejorar mis habilidades y contribuir a proyectos emocionantes.
+Me desempeño como Desarrollador Full-Stack, con una sólida experiencia en el ámbito de la ciberseguridad. Además, cuento con habilidades avanzadas en la creación de modelos 3D y desarrollo de herramientas para la generación de imágenes digitales. Mi curiosidad insaciable y mi compromiso continuo con el aprendizaje me permiten estar siempre a la vanguardia de los avances tecnológicos. Esta pasión por el descubrimiento es el motor que me impulsa a innovar y superar desafíos en el entorno digital.
 
 ## Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/herrera99)
