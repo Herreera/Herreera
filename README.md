@@ -6,6 +6,8 @@ Me desempeño como Desarrollador Full-Stack, con una sólida experiencia en el �
 ## Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/herrera99)
 
+[![My Skills](https://skillicons.dev/icons?i=py,linux,git,github,gitlab,docker,aws,react,mongodb,mysql,redhat,js,html,css,discord,discordjs,htmx)](https://skillicons.dev)
+
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=herreera&show_icons=true)
 
