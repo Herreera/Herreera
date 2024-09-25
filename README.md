@@ -1,4 +1,4 @@
-[![Samuel Herrera profile views](https://u8views.com/api/v1/github/profiles/108197417/views/day-week-month-total-count.svg)](https://u8views.com/github/herreera)
+![image title](https://rushter.com/counter.svg)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,c,py,php,mysql,postgres,js,ts,nodejs,react,tailwind,)](https://skillicons.dev)
 
