@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=herreera)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,c,py,php,mysql,postgres,js,ts,nodejs,react,tailwind,)](https://skillicons.dev)
 
